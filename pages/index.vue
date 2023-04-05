@@ -1,6 +1,11 @@
 <template>
   <div>
-    <img alt="Tef's Logo" src="../static/head.jpg" width="100%" height="400px" />
+    <img
+      alt="Tef's Logo"
+      src="../static/head.jpg"
+      width="100%"
+      height="400px"
+    />
     <div class="page-content-padded mt-12">
       <h1 class="text-primary mb-4">Our Samples</h1>
       <v-carousel class="mb-12" hide-delimiters cycle>
